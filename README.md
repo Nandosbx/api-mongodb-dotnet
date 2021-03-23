@@ -1,13 +1,13 @@
 <h1 align="center">DIO</h1>
 <p align="center">
-<img src="./.github/"/>
+<img src="./.github/avanade.png" width="25%" height="25%"/>
 </p>
 
 
 <div align="center">
-<img src="https://img.shields.io/badge/DIO-FULLSTACK-15C3D6?style=for-the-badge&logo=appveyor"/><img src="https://img.shields.io/badge/LICENSE-MIT-15C3D6?style=for-the-badge&logo=appveyor" />
+<img src="https://img.shields.io/badge/DIO-FULLSTACK-red?style=for-the-badge&logo=appveyor"/><img src="https://img.shields.io/badge/LICENSE-MIT-red?style=for-the-badge&logo=appveyor" />
 
-![GitHub top language](https://img.shields.io/github/languages/count/Nandosbx/api-mongodb-dotnet?color=15C3D6&&style=for-the-badge&logo=appveyor)![GitHub top language](https://img.shields.io/github/languages/top/Nandosbx/api-mongodb-dotnet?color=15C3D6&&style=for-the-badge&logo=appveyor)![GitHub last commit](https://img.shields.io/github/last-commit/Nandosbx/api-mongodb-dotnet?color=15C3D6&&style=for-the-badge&logo=appveyor)![GitHub repo size](https://img.shields.io/github/repo-size/Nandosbx/api-mongodb-dotnet?color=15C3D6&&style=for-the-badge&logo=appveyor)![GitHub issues](https://img.shields.io/github/issues/Nandosbx/api-mongodb-dotnet?color=15C3D6&&style=for-the-badge&logo=appveyor)
+![GitHub top language](https://img.shields.io/github/languages/count/Nandosbx/api-mongodb-dotnet?color=red&&style=for-the-badge&logo=appveyor)![GitHub top language](https://img.shields.io/github/languages/top/Nandosbx/api-mongodb-dotnet?color=red&&style=for-the-badge&logo=appveyor)![GitHub last commit](https://img.shields.io/github/last-commit/Nandosbx/api-mongodb-dotnet?color=red&&style=for-the-badge&logo=appveyor)![GitHub repo size](https://img.shields.io/github/repo-size/Nandosbx/api-mongodb-dotnet?color=red&&style=for-the-badge&logo=appveyor)![GitHub issues](https://img.shields.io/github/issues/Nandosbx/api-mongodb-dotnet?color=red&&style=for-the-badge&logo=appveyor)
 </div>
 
 <p align="center">

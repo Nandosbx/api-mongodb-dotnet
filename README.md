@@ -33,8 +33,8 @@ Project developed in Digital Innovation One's Bootcamp.
 <h2>🚀 Technologies</h2>
 
 This project was developed with:
-- [.NET](https://expressjs.com/ ".NET")
-- [MongoDB](https://nodejs.org/en/ "MongoDB")
+- [.NET Core](https://dotnet.microsoft.com/download ".NET")
+- [MongoDB](https://www.mongodb.com/ "MongoDB")
 
 
 

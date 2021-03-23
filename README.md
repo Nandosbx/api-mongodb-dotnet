@@ -21,7 +21,7 @@
 <div align="">
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/43e13c6346173b7ae77c)
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=api-mongodb-dotnet&uri=)
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=api-mongodb-dotnet&uri=https://github.com/Nandosbx/api-mongodb-dotnet/blob/master/api-mongodb-dotnet.insomnia_collection.json)
 </div>
 
 

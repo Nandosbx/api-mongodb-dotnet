@@ -1,0 +1,93 @@
+{
+	"info": {
+		"_postman_id": "e67995ac-92b6-492d-a3f0-0628d627fd09",
+		"name": "api-mongodb-dotnet",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://localhost:5000/infectado",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"dataNascimento\": \"1980-03-01\",\r\n    \"sexo\": \"F\",\r\n    \"latitude\": -21.5638994,\r\n    \"longitude\": -43.6555712\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5000/infectado",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"infectado"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:5000/infectado",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"dataNascimento\": \"1980-03-01\",\r\n    \"sexo\": \"F\",\r\n    \"latitude\": -21.5638994,\r\n    \"longitude\": -43.6555712\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5000/infectado",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"infectado"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:5000/infectado",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"dataNascimento\": \"1980-03-01\",\r\n    \"sexo\": \"F\",\r\n    \"latitude\": -21.5638994,\r\n    \"longitude\": -43.6555712\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5000/infectado",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"infectado"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

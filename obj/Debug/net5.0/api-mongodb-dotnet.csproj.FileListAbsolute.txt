@@ -39,3 +39,5 @@ C:\Users\Fernando\Documents\Projetos\api-mongodb-dotnet\obj\Debug\net5.0\api-mon
 C:\Users\Fernando\Documents\Projetos\api-mongodb-dotnet\obj\Debug\net5.0\ref\api-mongodb-dotnet.dll
 C:\Users\Fernando\Documents\Projetos\api-mongodb-dotnet\obj\Debug\net5.0\api-mongodb-dotnet.pdb
 C:\Users\Fernando\Documents\Projetos\api-mongodb-dotnet\obj\Debug\net5.0\api-mongodb-dotnet.genruntimeconfig.cache
+C:\Users\Fernando\Documents\Projetos\api-mongodb-dotnet\bin\Debug\net5.0\api-mongodb-dotnet.insomnia_collection.json
+C:\Users\Fernando\Documents\Projetos\api-mongodb-dotnet\bin\Debug\net5.0\api-mongodb-dotnet.postman_collection.json
